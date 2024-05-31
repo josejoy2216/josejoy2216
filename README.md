@@ -8,7 +8,7 @@
 
 👩🏻‍💻 Education: Master in Computer Application.
 
-🔭 Full Stack Web Developer.
+🔭 Full-Stack Engineer.
 
 🤝 Looking to collaborate on Open-Source Contribution
 
