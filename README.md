@@ -21,7 +21,7 @@
 <a href="https://twitter.com/josejoy2216" target="blank">
 
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/josejoy2216447" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/josejoy2216447" height="30" width="40" /></a>
-<a href="https://leetcode.com/user/https://https://leetcode.com/josejoy2216/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://www.leetcode.com/users/josejoy2216" height="30" width="40" /></a>
+<a href="[https://leetcode.com/user/https://https://leetcode.com/josejoy2216/](https://leetcode.com/u/JoseChacko/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://www.leetcode.com/users/josejoy2216" height="30" width="40" /></a>
 
 
 
